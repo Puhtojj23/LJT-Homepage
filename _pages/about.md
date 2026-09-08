@@ -30,19 +30,13 @@ I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, whe
 
 **Research Intern** — Shanghai AI Lab, June 2023–December 2023
 
-## Selected Publications
+## Publications
 
-**2025** — *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* — First author, Arxiv.
+{% for pub in site.publications %}
+- **{{ pub.year }}** — *{{ pub.title }}* — {{ pub.venue }}.
+{% endfor %}
 
-**2025** — *On the Perception Bottleneck of VLMs for Chart Understanding* — First author, Arxiv.
-
-**2024** — *On the Universal Truthfulness Hyperplane Inside LLMs* — First author, EMNLP 2024.
-
-**2024** — *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation* — Co-author, ICML 2024.
-
-**2023** — *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models* — Co-author, NeurIPS 2023.
-
-**2023** — *Composing Parameter-Efficient Modules with Arithmetic Operations* — Co-author, NeurIPS 2023.
+See the full [publications page](/LJT-Homepage/publications/) for all entries.
 
 ## Skills
 
