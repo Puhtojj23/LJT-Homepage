@@ -6,4 +6,4 @@ year: 2024
 category: conferences
 ---
 
-Co-authored work studying in-context sharpness as alerts for hallucination mitigation from an inner representation perspective.
+Publication.

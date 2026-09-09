@@ -4,17 +4,15 @@ permalink: /
 
 ## About Me
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning, with a particular interest in improving reasoning, truthfulness, interpretability, and robustness of large language models.
+I am a first-year PhD candidate at HKUST NLP Group. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
-I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was awarded the Zhiyuan Honor Scholarship.
+My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
-- Natural Language Processing
-- Machine Learning
 - LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLMs)
-- LLM Truthfulness and Interpretability
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
 
 ## Academic Background
 
@@ -32,23 +30,21 @@ I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, whe
 
 ## Publications
 
-**2025** — *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* — First author, Arxiv.
+**2025** — *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond* — First author.
 
-**2025** — *On the Perception Bottleneck of VLMs for Chart Understanding* — First author, Arxiv.
+**2025** — *On the Perception Bottleneck of VLMs for Chart Understanding* — First author.
 
 **2024** — *On the Universal Truthfulness Hyperplane Inside LLMs* — First author, EMNLP 2024.
 
-**2024** — *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation* — Co-author, ICML 2024.
+**2024** — *In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation* — ICML 2024.
 
-**2023** — *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models* — Co-author, NeurIPS 2023.
+**2023** — *C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models* — NeurIPS 2023.
 
-**2023** — *Composing Parameter-Efficient Modules with Arithmetic Operations* — Co-author, NeurIPS 2023.
+**2023** — *Composing Parameter-Efficient Modules with Arithmetic Operations* — NeurIPS 2023.
 
-## Skills
+## Awards
 
-- **Research areas:** Natural language processing, machine learning, large language models, vision-language models
-- **Methods:** Reasoning, reinforcement learning, hallucination mitigation, truthfulness, interpretability
-- **Technical skills:** Python, PyTorch, deep learning, LLM research workflows
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 ## Contact
 

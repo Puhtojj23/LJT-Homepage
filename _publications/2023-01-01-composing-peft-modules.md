@@ -6,4 +6,4 @@ year: 2023
 category: conferences
 ---
 
-Co-authored work on composing parameter-efficient modules with arithmetic operations.
+Publication.

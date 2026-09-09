@@ -6,4 +6,4 @@ year: 2024
 category: conferences
 ---
 
-First-author work exploring the universal truthfulness hyperplane inside LLMs. Code repository: Universal_Truthfulness_Hyperplane.
+First-author publication.

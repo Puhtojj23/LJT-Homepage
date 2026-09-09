@@ -6,4 +6,4 @@ year: 2025
 category: preprints
 ---
 
-First-author work investigating the perception bottleneck of vision-language models for chart understanding. Code repository: Vision4Chart.
+First-author publication.
