@@ -30,14 +30,6 @@ I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, whe
 
 **Research Intern** — Shanghai AI Lab, June 2023–December 2023
 
-## Publications
-
-{% for pub in site.publications %}
-- **{{ pub.year }}** — *{{ pub.title }}* — {{ pub.venue }}.
-{% endfor %}
-
-See the full [publications page](/LJT-Homepage/publications/) for all entries.
-
 ## Skills
 
 - **Research areas:** Natural language processing, machine learning, large language models, vision-language models
